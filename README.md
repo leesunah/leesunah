@@ -72,6 +72,5 @@
 
 ---
 ### 📫 Как со мной связаться?
-- **Почта:** [alievaas@bk.ru](mailto:alievaas@bk.ru)
 - **Телеgram:** [@as_ainur](https://t.me/as_ainur)
 
